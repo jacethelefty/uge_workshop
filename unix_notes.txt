@@ -41,7 +41,6 @@ Git st same as Git status
 
 ############################
 ###### GIT WORKFLOW ########
-############################
 
 git init
 
